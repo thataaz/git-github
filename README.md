@@ -15,7 +15,7 @@ Nesse repositório será compartilhado minhas anotações e exercícios dos meus
 
 ## ☕ Projeto do Curso DIO
 
-Repositório do desafio de projeto de Git e Github, para execução de todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
+Repositório do desafio de projeto de Git e Github, para execução de todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas.
 
 ## Quem sou?
 
